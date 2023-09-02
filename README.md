@@ -19,7 +19,7 @@ The main objectives of this project are as follows:
 
 ## Code Explanation
 
-### Q1a.m
+### covid_data_analysis.m
 
 1. Import the COVID-19 data from the 'owid-covid-data-s3.xlsx' dataset.
 2. Define key data headers for extraction.
@@ -33,13 +33,12 @@ The main objectives of this project are as follows:
 10. Print the statement about which country has best suppressed COVID-19.
 11. Create a new matrix for Malaysia's data.
 
-### Q1b.m
-
+### polynomial_regression.m
 1. Define and initialize variables for polynomial regression.
 2. Perform polynomial regression on Malaysia's total cases against days tracked.
 3. Print the equations of the fitted lines for different periods.
 
-### Q1d.m
+### newton_raphson_method.m
 
 1. Define the target total cases 'y' for Malaysia.
 2. Calculate the derivative of the polynomial using the 'dCdt' function.

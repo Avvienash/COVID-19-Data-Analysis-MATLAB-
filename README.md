@@ -83,6 +83,9 @@ The main objectives of this project are as follows:
 3. Calculate the root iteratively using the function 'h' and its derivative 'dh.'
 4. Continue the iteration until the desired precision is achieved.
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> </p>
+
 This repository provides a structured approach to analyzing COVID-19 data using MATLAB, making it easier for researchers and data analysts to gain insights from the dataset.
 
 For detailed code implementation, please refer to the respective MATLAB script files within this repository.
